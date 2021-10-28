@@ -1,0 +1,9 @@
+{
+    "conexion": {
+        "server": "localhost",
+        "user": "produccion",
+        "password": "",
+        "database": "pruebaphp",
+        "port": "3306"
+    }
+}
